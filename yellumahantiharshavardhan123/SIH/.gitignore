@@ -1,0 +1,12 @@
+node_modules
+.next
+*.log
+.DS_Store
+apps/mobile/build
+apps/mobile/.dart_tool
+apps/mobile/ios
+apps/mobile/android
+apps/mobile/web
+apps/mobile/linux
+apps/mobile/macos
+apps/mobile/windows

@@ -1,0 +1,9 @@
+{
+  "intents": [
+    { "id": "nearestPolice", "keywords": ["police","station","nearest"], "response": "Nearest police station: Use 112 or visit the nearest Police Help Booth shown on the map." },
+    { "id": "emergencySteps", "keywords": ["emergency","help","panic"], "response": "If it's an emergency: Move to a safe, lit area. Press the Panic button to alert contacts and authorities." },
+    { "id": "fileReport", "keywords": ["report","FIR","complaint"], "response": "To file a report: Use the e-FIR form in the app and submit details." },
+    { "id": "areaSafety", "keywords": ["safe","area","risk"], "response": "Area safety is based on risk zones and time of day. Avoid restricted or high-risk zones at night." }
+  ],
+  "fallback": "I did not understand. Try: 'Is this area safe?'"
+}
